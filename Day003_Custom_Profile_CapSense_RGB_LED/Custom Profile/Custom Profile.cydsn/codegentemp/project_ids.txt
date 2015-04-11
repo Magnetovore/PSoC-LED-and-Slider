@@ -1,0 +1,6 @@
+C:\Users\David\Documents\GitHub\PSoC-4-BLE\100_Projects_in_100_Days\Day003_Custom_Profile_CapSense_RGB_LED\Custom Profile\Custom Profile.cydsn\Custom Profile.cyprj|bcedb540-28ff-4d42-805f-d4a801f6645e
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|ae7dd8c8-0561-459c-a6de-20d28c878608
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|2c7b5633-2a88-40ef-9899-998aec830172
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|0822567e-6b40-4822-ab32-d561cfd88e87
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|b1fc8522-d413-49ec-b6a6-06589ac22dca
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|0442a7e0-e5f4-4c38-b3eb-c0ed96fbc102
